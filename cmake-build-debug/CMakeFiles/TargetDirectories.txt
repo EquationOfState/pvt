@@ -1,0 +1,3 @@
+C:/Users/34936/Desktop/calculate-PVTx/cmake-build-debug/CMakeFiles/calculate.dir
+C:/Users/34936/Desktop/calculate-PVTx/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/34936/Desktop/calculate-PVTx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
